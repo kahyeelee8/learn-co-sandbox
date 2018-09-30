@@ -8,7 +8,7 @@ end
 
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-
+names.each do |names|
 
 
 
