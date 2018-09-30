@@ -7,5 +7,8 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 def batch_badge_creator(names)
 end
 
-Edsger = ["Edsger", "room 1"]
-Ada = ["Ada", "room 2"]
+names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+room = ["1","2","3","4","5","6","7"]
+
+
+
