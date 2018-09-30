@@ -9,7 +9,7 @@ end
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms(names)
-  puts "Hello, 
+  puts "Hello, #{names[0]
 
 
 
